@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>祥安生命有限公司（禮儀公司）- 提供各類宗教儀式，包括日蓮正宗和創價學會</title>
+    <meta name="description" content="祥安生命有限公司（禮儀公司）提供專業的殯葬服務，涵蓋台北市、新北市、基隆市和桃園市，並提供各類宗教儀式如日蓮正宗和創價學會。">
+    <meta name="keywords" content="祥安生命有限公司, 禮儀公司, 北部禮儀公司, 北部葬儀社, 葬儀社, 三重葬儀社, 台北市禮儀公司, 葬儀社三重, 新北市禮儀公司, 台北市禮儀公司, 台北葬儀社, 台北推薦禮儀, 蘆洲葬儀社, 蘆洲推薦禮儀公司, 蘆洲生命禮儀, 新北市推薦禮儀公司, 日蓮正宗, 創價學會, 殯葬業, 葬儀服務, 宗教儀式, 台北市郵遞區號, 新北市郵遞區號, 基隆市禮儀公司, 桃園市禮儀公司, 推薦葬儀社, 推薦禮儀公司">
+    <!-- 結構化數據 -->
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "LocalBusiness",
+        "name": "祥安生命有限公司(禮儀公司）",
+        "description": "祥安生命有限公司提供專業的殯葬服務，涵蓋台北市、新北市、基隆市和桃園市，並提供各類宗教儀式如日蓮正宗和創價學會。",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "新北市三重區永福街135巷13號",
+            "addressLocality": "新北市",
+            "addressRegion": "新北市三重區永福街135巷13號",
+            "postalCode": "241",
+            "addressCountry": "TW"
+        },
+        "telephone": "+886938179858",
+        "openingHours": "Mo-Su 00:00-23:59",
+        "image": "https://shang-an-space.github.io/Shiangan4/Try/logo.png",
+        "url": "https://shang-an-space.github.io/Try/Try/",
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 25.0769998,
+            "longitude": 121.4782343 
+        },
+        "sameAs": [
+            "https://maps.app.goo.gl/VwDBuD7Xe9hZxoei7?g_st=il"
+        ]
+    }
+    </script>
+</head>
+<body>
+    <!-- https://shang-an-space.github.io/Shiangan4/Try/  -->
+    <h1>祥安生命有限公司（禮儀公司）</h1>
+    <p>我們提供各類宗教儀式的專業殯葬服務，地點包括台北市、新北市、基隆市和桃園市。推薦葬儀社，價格優惠，實在，不會讓家屬多花錢。</p>
+    <iframe src="https://maps.app.goo.gl/rTi2PqmywgTxu1Qi7?g_st=il" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <!-- 聯絡方式和社交媒體鏈接 -->
+    <h2>聯絡方式</h2>
+    <ul>
+        <li>電話：+886938179858</li>
+        <li>地址：新北市三重區永福街135巷13號</li>
+    </ul>
+    <h2>追蹤我們</h2>
+    <p>Follow us on <a href="https://www.facebook.com/shianganlife?mibextid=LQQJ4d">Facebook</a></p>
+</body>
+</html>
